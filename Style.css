@@ -1,0 +1,31 @@
+ul {
+    list-style-type: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+footerbackground {
+    width: 100%;
+    height: 400px;
+    background-image: url(/assets/img/cropped-1900-1267-394150.jpg);
+    background-size: 100% 100%;
+}
+
+.lol {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-image: url(assets/img/footerimage.jpg);
+    filter: brightness(%);
+    text-align: center;
+}
+
+.rcorners2 {
+    border-radius: 25px;
+}
+
+.White {
+    color: white
+}
